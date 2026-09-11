@@ -1,5 +1,3 @@
-//js공부
-js
 const todos = [
   {
     id: 1,
