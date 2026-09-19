@@ -27,7 +27,7 @@ function showTodos() {
 showTodos();
 
 addbutton.addEventListener("click", function () {
-    const text = WhatToDo.value;
+    const text = WhatTodo.value;
 
     todos.push({
         id: todos.length + 1,
